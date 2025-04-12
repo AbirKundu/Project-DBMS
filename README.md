@@ -58,7 +58,6 @@ Admins can:
 Abir Kundu, Nowshin Sayara, Proma Barua, Jarin Anan jasia
 
 📧 abircse22@gmail.com
-🔗 GitHub
 
 🧳 "Built to make air travel booking easier, faster, and smarter."
 — Abir Kundu
