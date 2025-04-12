@@ -56,6 +56,7 @@ Admins can:
 
 ## 👨‍💻 Developed By
 Abir Kundu, Nowshin Sayara, Proma Barua, Jarin Anan jasia
+
 📧 abircse22@gmail.com
 🔗 GitHub
 
